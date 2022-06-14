@@ -10,3 +10,4 @@
 *isLucky  
 *matrixElementsSum  
 *shapeArea  
+*reverseInParentheses
