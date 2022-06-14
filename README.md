@@ -11,4 +11,3 @@
 *matrixElementsSum  
 *shapeArea  
 *reverseInParentheses
-*alternatingSums
