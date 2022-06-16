@@ -14,3 +14,4 @@
 * alternatingSums
 * Add Border
 * Are Similar?
+* arrayChange
