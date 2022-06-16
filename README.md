@@ -13,3 +13,4 @@
 * reverseInParentheses
 * alternatingSums
 * Add Border
+* Are Similar?
