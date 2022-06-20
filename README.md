@@ -15,3 +15,4 @@
 * Add Border
 * Are Similar?
 * arrayChange
+* palindromeRearranging
