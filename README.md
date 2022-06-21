@@ -17,3 +17,4 @@
 * arrayChange
 * palindromeRearranging
 * isIPv4Address
+* avoidObstacles
