@@ -1,5 +1,5 @@
 # CodesignalTasks
-COdesignal Tasks Answers
+Codesignal Tasks Answers
 * All Longest Strings  
 * Make Array Consecutive 2  
 * Sort by Height  
